@@ -7,7 +7,7 @@ FestPass three-tier app: frontend (nginx), backend (Flask), db (postgres).
 - PORT: 8014
 - Docker Hub username: 0xabhinav
 - Docker Hub repository: https://hub.docker.com/r/0xabhinav/fest-backend
-- Digest of 1.0.0: _to be filled after Stage 4 push_
+- Digest of 1.0.0: sha256:5d7aaaf1ed43e4281b272c9a3f5a362bb33c76f40465af5b60d969299140210a
 
 ## Vulnerability report (Trivy)
 
